@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "editorconfig.editorconfig",
+        "ecmel.vscode-html-css",
+        "kisstkondoros.vscode-gutter-preview",
+        "ms-vscode.vscode-typescript-next",
+        "visualstudioexptteam.vscodeintellicode",
+        "christian-kohler.path-intellisense"
+    ]
+}
